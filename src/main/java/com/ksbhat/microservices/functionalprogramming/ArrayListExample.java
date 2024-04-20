@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-public class ArrayListExample {
+public class ArrayListExample{
     public static void main(String[] args) {
         // Create an ArrayList of integers
         List<Integer> numbers = new ArrayList<>();
